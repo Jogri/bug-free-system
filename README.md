@@ -1,6 +1,7 @@
 # bug-free-system
 
 ## "Jabberwocky"
+by Lewis Carroll
 
 Twas brillig, and the slithy toves
 Did gyre and gimble in the wabe;
